@@ -1,0 +1,48 @@
+.rating {
+    display: inline-block;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.fa-batarang {
+    color: #ddd;
+}
+
+.checked {
+    color: #f1c40f;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: #FFD700;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 20px 0;
+}
+
+/* 
+  .rating {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+
+  .batarang {
+    font-size: 32px;
+    color: #FFD700;
+  } */
+
+.view-count {
+    display: block;
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
